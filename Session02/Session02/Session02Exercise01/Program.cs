@@ -6,7 +6,7 @@ namespace Session02Exercise01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hej Världen!");
+            Console.WriteLine("Hello World!");
 
             var integer = 0;
 
