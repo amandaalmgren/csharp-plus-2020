@@ -12,6 +12,8 @@ namespace Session03Exercise01
             double?[] numberArray = new double?[inputArray.Length];
             int lowestAge;
             int highestAge;
+            double sumAge;
+            double averAge;
             //for (int i = 0; i < inputArray.Length; i++)
             //{
             //    try
