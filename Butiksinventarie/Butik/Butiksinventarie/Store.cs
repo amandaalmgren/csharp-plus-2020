@@ -6,5 +6,6 @@ namespace Butiksinventarie
 {
     class Store
     {
+        
     }
 }
